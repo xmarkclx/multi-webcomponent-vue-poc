@@ -1,4 +1,5 @@
-# widgets
+# Vue Multi WebComponent POC
+Proof of Concept that you can have 2 web components in one file in Vue
 
 ## Project setup
 ```
@@ -12,13 +13,10 @@ yarn serve
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build -- --target wc --name v-card src/App.vue
 ```
 
 ### Lints and fixes files
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
