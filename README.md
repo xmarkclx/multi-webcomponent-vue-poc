@@ -1,4 +1,4 @@
-# Vue Multi WebComponent POC
+# Vue Multi WebComponent POC / Starter
 Proof of Concept that you can have 2 web components in one file in Vue
 
 ## Project setup
